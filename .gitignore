@@ -1,0 +1,11 @@
+# Nuxt dev/build outputs
+package-lock.json
+dist/
+
+# Node dependencies
+node_modules
+
+# Local env files
+.env
+.env.*
+!.env.example
